@@ -1,6 +1,8 @@
 # Programming Foundations - Module 1
 
-## Lesson Task 2 Questions
+## Lesson Task 2 Answers
+
+Add all the answers to the `script.js` file.
 
 Giving your variables meaningful names is very important. The names should indicate what type of information or data the variable holds.
 
@@ -25,29 +27,31 @@ Create four variables that demonstrate the following operations:
 
 Declare a boolean variable with an initial value of false.
 
-### Question
+### Question 5
 
 Console log the number of characters in this string: "The frogs are angry."
 
-### Question
+### Question 6
 
 Convet the following variable names to camelCase:
 
--   `time_elapsed`
--   `totalprice`
+```js
+var time_elapsed;
+var totalprice;
+```
 
-### Question
+### Question 7
 
 Convert the following string values to number values:
 
 ```js
 var number1 = "53";
-var number1 = "44.6";
+var number2 = "44.6";
 ```
 
-### Question
+### Question 8
 
-Check the type of the following variables and log the result:
+Check the type of the following variables and log the results:
 
 ```js
 var pet = "donkey";
@@ -56,12 +60,12 @@ var discountApplied = true;
 var timeLeft;
 ```
 
-### Question
+### Question 9
 
 Declare and initialise a variable with the value "Updating heading".
 
 Select the <h1> element on the page and set it's inner HTML value to be the variable created above.
 
-### Question
+### Question 10
 
-Select the <body> element on the page and change its background colour to yellow.
+Select the <body> element on the page and change its background colour to lightskyblue.
