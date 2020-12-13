@@ -64,8 +64,8 @@ var timeLeft;
 
 Declare and initialise a variable with the value "Updating heading".
 
-Select the <h1> element on the page and set it's inner HTML value to be the variable created above.
+Select the `h1` element on the page and set it's inner HTML value to be the variable created above.
 
 ### Question 10
 
-Select the <body> element on the page and change its background colour to lightskyblue.
+Select the `body` element on the page and change its background colour to lightskyblue.
